@@ -1,0 +1,27 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AACHOURMOHAMED/Test-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AACHOURMOHAMED/Test-practice/issues"
+  },
+  "homepage": "https://github.com/AACHOURMOHAMED/Test-practice#readme",
+  "dependencies": {
+    "jest": "^28.1.2",
+    "sax": "^1.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
